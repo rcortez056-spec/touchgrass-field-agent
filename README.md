@@ -25,3 +25,5 @@ Built for the DEV Hacktoberfest 2026 "TouchGrass" challenge. The goal is to mini
   ],
   "offline_summary": "20-minute upper-trail check only at Sunset Cliffs; slick steps and 3:15 PM high tide make the lower ledge unsafe."
 }
+## Submission & Technical Article
+- **DEV Community Submission:** [TouchGrass FieldAgent Article](https://dev.to/rcortez056/touchgrass-fieldagent-an-open-source-field-companion-designed-for-zero-screen-time-5d22)
